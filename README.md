@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eliyevu
+- 👋 Hi, I’m Elikplim 
 - 👀 I’m interested in software engineering especially mobile app development 
 - 🌱 I’m currently learning Java and exploring its applications in building software solutions 
 - 💞️ I’m looking to collaborate on open-source projects, mobile app development or any beginner-friendly software engineering projects.

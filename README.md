@@ -1,10 +1,7 @@
-- Hi,👋 I’m Elikplim 
-- 👀 I’m interested in software engineering especially mobile app development 
-- 🌱 I’m currently learning Java and exploring its applications in building software solutions 
-- 💞️ I’m looking to collaborate on open-source projects, mobile app development or any beginner-friendly software engineering projects.
-- 📫 You can reach me on kancartos6@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm fascinated by how apps are built from scrath.
+Hi,👋 I’m Elikplim, a computer science student with a passion for mobile app development.I'm currently learning Java and Python to sharpen my programming skills. Always eager to learn and contribute to exciting projects!
+
+
+
 
 <!---
 eliyevu/eliyevu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

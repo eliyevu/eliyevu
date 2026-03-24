@@ -13,7 +13,6 @@ I enjoy building scalable backend systems and exploring modern web and mobile te
 - 🔨 Building full-stack applications with modern technologies
 - 📱 Exploring mobile app development (future focus)
 - ⚙️ Learning backend development with Spring Boot & Node.js
-- 🚀 Working on real-world projects like Sanich Farms
 - 🤝 Open to collaborations on exciting projects
 
 ---

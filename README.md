@@ -47,20 +47,6 @@ I enjoy building scalable backend systems and exploring modern web and mobile te
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=eliyevu&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliyevu&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eliyevu&label=Profile%20Views&color=36BCF7&style=flat-square" />
-</p>
-
----
 
 <!---
 eliyevu/eliyevu is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
